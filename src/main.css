@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    
+    justify-content: center;
+    margin-top: 3%;
+    
+}
+.content{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 30px;
+}
+.image img{
+    border-radius: 15px;
+}
+.description{
+    color: rgb(118, 118, 118);
+}
+.date{
+    font-size: 15px;
+    font-weight: 600;
+}

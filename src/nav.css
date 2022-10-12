@@ -1,0 +1,11 @@
+.top{
+ display: flex;
+ justify-content: center;
+ margin: 5px;
+ padding:20px;
+ width:99.4%;
+ color: white;
+font-size: 20px;
+ background-color: #E64848;
+ border-radius: 10px;
+}
